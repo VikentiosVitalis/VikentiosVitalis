@@ -1,6 +1,6 @@
 # Vikentios Vitalis 
 
-## Junior IT Integration Specialist at PPC S.A. | Electrical & Computer Engineer at NTUA
+## Junior IT Integration Specialist – Backend Development at PPC S.A. | Electrical & Computer Engineer at NTUA
 
 
 * 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
