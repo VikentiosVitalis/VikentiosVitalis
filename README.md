@@ -1,32 +1,54 @@
+<!-- Header -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vikentios%20Vitalis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20Integration%20Specialist%20|%20ECE%20@NTUA&descSize=18&descAlignY=55" width="100%"/>
+</div>
 
-# Vikentios Vitalis
-
-`IT Integration Specialist` · `ECE @NTUA` · `Athens`
-
-[![Portfolio](https://img.shields.io/badge/vikentiosvitalis.com-111?style=for-the-badge&logo=safari&logoColor=white)](https://vikentiosvitalis.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikentios-vitalis-264354180/)
-[![Email](https://img.shields.io/badge/say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalisvikentios@gmail.com)
+<!-- Social Badges -->
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/vikentiosvitalis.com-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white)](https://vikentiosvitalis.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikentios-vitalis-264354180/)
+[![Email](https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalisvikentios@gmail.com)
 
 </div>
 
 ---
-```python
-class Vikentios:
-    role = "Junior IT Integration Specialist @ PPC S.A."
-    education = "Electrical & Computer Engineer, NTUA"
-    stack = ["Python", "React", "MySQL"]
-    tools = ["Git", "VS Code"]
-    currently = "Building cool stuff ⚡"
+
+### 👨‍💻 About Me
+```javascript
+const vikentios = {
+    location: "Athens, Greece 🇬🇷",
+    role: "Junior IT Integration Specialist @ PPC S.A.",
+    education: "Electrical & Computer Engineer @ NTUA",
+    interests: ["System Integration", "Web Development", "Automation"],
+    currentFocus: "Building scalable IT solutions ⚡"
+};
 ```
 
 ---
 
+### 🛠️ Tech Stack
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 </div>
