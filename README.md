@@ -20,8 +20,8 @@ const vikentios = {
     location: "Athens, Greece 🇬🇷",
     role: "Software Engineer @ PPC S.A.",
     education: "Electrical & Computer Engineer @ NTUA",
-    interests: ["Full-Stack Development", "AI", "Automation"],
-    currentFocus: "Building scalable IT solutions"
+    interests: ["System Integration", "Web Development", "Automation"],
+    currentFocus: "Building scalable IT solutions ⚡"
 };
 ```
 
@@ -32,6 +32,7 @@ const vikentios = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
