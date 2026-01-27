@@ -1,31 +1,22 @@
-# Vikentios Vitalis 
+# Hey, I'm Vikentios 👋
 
-## Junior IT Integration Specialist at PPC S.A. | Electrical & Computer Engineer at NTUA
+**Junior IT Integration Specialist @ PPC S.A.**  
+Electrical & Computer Engineer from NTUA, based in Athens 🇬🇷
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://vikentios-vitalis-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikentios-vitalis-264354180/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitalisvikentios@gmail.com)
 
-* 🌍  Based in [Athens, Hellas](https://en.wikipedia.org/wiki/Athens)
-* 🖥️  Visit my [Portfolio](https://vikentios-vitalis-portfolio.netlify.app/)
-* ✉️  You can contact me at [vitalisvikentios@gmail.com](mailto:vitalisvikentios@gmail.com)
-<!-- * 🚀  I'm currently working on completing my studies as an [Electrical and Computer Engineer @NTUA](http://www.ece.ntua.gr/en) -->
+---
 
-### Skills
+### Tech Stack
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+---
 
-### Tools
-<p align="left">
-<a href="https://git-scm.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" 
-width="40" height="40"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Visual_Studio_Code_1.35_icon.png/640px-Visual_Studio_Code_1.35_icon.png" alt="VS Code" 
-width="40" height="40"/></a>
-</p>
-
-### Socials
-
-
-<p align="left"> <a href="https://www.linkedin.com/in/vikentios-vitalis-264354180/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<sub>Open to connecting and collaborating!</sub>
