@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vikentios%20Vitalis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=IT%20Integration%20Specialist%20|%20ECE%20@NTUA&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Vikentios%20Vitalis&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20PPC%20S.A.%20|%20ECE%20@NTUA&descSize=18&descAlignY=55" width="100%"/>
 </div>
 
 <!-- Social Badges -->
@@ -18,10 +18,10 @@
 ```javascript
 const vikentios = {
     location: "Athens, Greece 🇬🇷",
-    role: "Junior IT Integration Specialist @ PPC S.A.",
+    role: "Software Engineer @ PPC S.A.",
     education: "Electrical & Computer Engineer @ NTUA",
-    interests: ["System Integration", "Web Development", "Automation"],
-    currentFocus: "Building scalable IT solutions ⚡"
+    interests: ["Full-Stack Development", "AI", "Automation"],
+    currentFocus: "Building scalable IT solutions"
 };
 ```
 
@@ -37,14 +37,6 @@ const vikentios = {
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
