@@ -14,7 +14,11 @@
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=45&text=👨‍💻%20About%20Me&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50" width="300"/>
+</div>
+
+<br>
 ```javascript
 const vikentios = {
     location: "Athens, Greece 🇬🇷",
@@ -27,7 +31,11 @@ const vikentios = {
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=45&text=🛠️%20Tech%20Stack&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50" width="300"/>
+</div>
+
+<br>
 
 <div align="center">
 
