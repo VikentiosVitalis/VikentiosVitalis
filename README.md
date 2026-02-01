@@ -12,34 +12,36 @@
 
 </div>
 
-<br>
+---
 
-<!-- About Me -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" align="left" />
+### 👨‍💻 About Me
+```javascript
+const vikentios = {
+    location: "Athens, Greece 🇬🇷",
+    role: "Software Engineer @ PPC S.A.",
+    education: "Electrical & Computer Engineer @ NTUA",
+    interests: ["System Integration", "Web Development", "Automation"],
+    currentFocus: "Building scalable IT solutions ⚡"
+};
+```
 
-### About Me
+---
 
-**Software Engineer** at PPC S.A. based in Athens, Greece.  
-Electrical & Computer Engineer from NTUA.  
-Focused on system integration, web development, and automation.
+### 🛠️ Tech Stack
 
-<br>
+<div align="center">
 
-<!-- Tech Stack -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" align="left" />
+![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Tech Stack
+</div>
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat-square&logo=visualstudiocode&logoColor=white)
+---
 
-<br>
-
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 </div>
