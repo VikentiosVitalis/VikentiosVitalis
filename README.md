@@ -20,25 +20,17 @@
 </div>
 
 <br>
-
-<div align="center">
-<table>
-<tr>
-<td>
-```javascript
-const vikentios = {
-    location: "Athens, Greece 🇬🇷",
-    role: "Software Engineer @ PPC S.A.",
-    education: "Electrical & Computer Engineer @ NTUA",
-    interests: ["System Integration", "Web Development", "Automation"],
-    currentFocus: "Building scalable IT solutions ⚡"
-};
+```js
+function aboutMe() {
+    return {
+        location: "Athens, Greece 🇬🇷",
+        role: "Software Engineer @ PPC S.A.",
+        education: "Electrical & Computer Engineer @ NTUA",
+        interests: ["System Integration", "Web Development", "Automation"],
+        currentFocus: "Building scalable IT solutions ⚡"
+    };
+}
 ```
-
-</td>
-</tr>
-</table>
-</div>
 
 <br>
 
