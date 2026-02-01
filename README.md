@@ -20,17 +20,18 @@
 </div>
 
 <br>
-```js
-function aboutMe() {
-    return {
-        location: "Athens, Greece 🇬🇷",
-        role: "Software Engineer @ PPC S.A.",
-        education: "Electrical & Computer Engineer @ NTUA",
-        interests: ["System Integration", "Web Development", "Automation"],
-        currentFocus: "Building scalable IT solutions ⚡"
-    };
-}
-```
+
+<div align="center">
+
+| | |
+|---|---|
+| 📍 **Location** | Athens, Greece 🇬🇷 |
+| 💼 **Role** | Software Engineer @ PPC S.A. |
+| 🎓 **Education** | Electrical & Computer Engineer @ NTUA |
+| 🔭 **Interests** | System Integration, Web Development, Automation |
+| ⚡ **Current Focus** | Building scalable IT solutions |
+
+</div>
 
 <br>
 
