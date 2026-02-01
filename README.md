@@ -12,13 +12,19 @@
 
 </div>
 
----
+<br>
 
+<!-- About Me Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=45&text=👨‍💻%20About%20Me&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=50&text=👨‍💻%20About%20Me&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 <br>
+
+<div align="center">
+<table>
+<tr>
+<td>
 ```javascript
 const vikentios = {
     location: "Athens, Greece 🇬🇷",
@@ -29,10 +35,16 @@ const vikentios = {
 };
 ```
 
----
+</td>
+</tr>
+</table>
+</div>
 
+<br>
+
+<!-- Tech Stack Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=45&text=🛠️%20Tech%20Stack&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=50&text=🛠️%20Tech%20Stack&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 <br>
@@ -48,8 +60,9 @@ const vikentios = {
 
 </div>
 
----
+<br>
 
+<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 </div>
