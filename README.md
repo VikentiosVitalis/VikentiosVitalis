@@ -18,7 +18,7 @@
 ```javascript
 const vikentios = {
     location: "Athens, Greece 🇬🇷",
-    role: "Software Engineer @ PPC S.A.",
+    role: "IT Business Analyst @ PPC S.A.",
     education: "Electrical & Computer Engineer @ NTUA",
     interests: ["System Integration", "Web Development", "Automation"],
     currentFocus: "Building scalable IT solutions ⚡"
